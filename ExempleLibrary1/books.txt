@@ -1,0 +1,31 @@
+id, title, author
+1; The Lying Life of Adults; Elena Ferrante
+2; Rodham; Curtis Sittenfeld
+3; Transcendent Kingdom: A Novel; Yaa Gyasi
+4; The Glass Hotel: A Novel; Emily St. John Mandel
+5; My Dark Vanessa: A Novel; Kate Elizabeth Russell
+6; The DEath of Vivek Oji: A Novel; Akwaeke Emezi
+7; Real Life: A Novel; Brandon Taylor
+8; Wow, no Thank you: Essays; Samantha Irby
+9; Death in Her Hands: A Novel; Ottessa Moshfegh
+10; It's Not All Dowhill from Here: A Novel; Terry McMillan
+11; The Vanishing Half: A Novel; Brit Bennett
+12; Hood Feminism: Notes from the Women that a movement Forgot; Mikki Kendall
+13; Fairest: A Memoir; Meredith Talusan
+14; The Resisters: A Novel; Gish Jen
+15; Drifts; Kate Zambreno
+16; Chosen Ones; Veronica Roth
+17; I Hold a Wolf by the Ears; Laura Van Den Berg
+18; Just Like You; Nick Hornby
+19; Perfect Tunes; Emily Gould
+20; The Disaster Tourist; Yun Ko-eun
+21; It is Wood, It is Stone; Gabriella Burnham
+22; Empire of Wild; Cherie Dimaline
+23; Lakewood; Megan Giddings
+24; These Women; Ivy Pochoda
+25; You Exist too Much; Zaina Arafat
+26; Luster; Raven Leilani
+27; Night.Sleep.Death.The Stars; Joyce Carol Oates
+28; Memorial; Bryan Washington
+29; Beach Read; Emily Henry
+30; The Comeback; Ella Berman

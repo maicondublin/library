@@ -1,0 +1,26 @@
+id, name, address, phone
+1; Zeus; 1 Mount Olympus Avenue; 00000000
+2; Poseidon; 2 Mount Olympus Avenue; 00000000
+3; Hades; 3 Mount Olympus Avenue; 00000000
+4; Titan; 4 Mount Olympus Avenue; 00000000
+5; Cronus; 5 Mount Olympus Avenue; 00000000
+6; Rhea; 6 Mount Olympus Avenue; 00000000
+7; Persephone; 7 Mount Olympus Avenue; 00000000
+8; Hera; 8 Mount Olympus Avenue; 00000000
+9; Argos; 9 Mount Olympus Avenue; 00000000
+10; Olympia; 10 Mount Olympus Avenue; 00000000
+11; Demeter; 11 Mount Olympus Avenue; 00000000
+12; Hestia; 12 Mount Olympus Avenue; 00000000
+13; Hephaestus; 13 Mount Olympus Avenue; 00000000
+14; Ares; 14 Mount Olympus Avenue; 00000000
+15; Athena; 15 Mount Olympus Avenue; 00000000
+16; Aphrodite; 16 Mount Olympus Avenue; 00000000
+17; Cyprus; 17 Mount Olympus Avenue; 00000000
+18; Zephyrus; 18 Mount Olympus Avenue; 00000000
+19; Hermes; 19 Mount Olympus Avenue; 00000000
+20; Apollo; 20 Mount Olympus Avenue; 00000000
+21; Artemis; 21 Mount Olympus Avenue; 00000000
+22; Delphi; 22 Mount Olympus Avenue; 00000000
+23; Muses; 23 Mount Olympus Avenue; 00000000
+24; Ephesus; 24 Mount Olympus Avenue; 00000000
+25; Pan; 25 Mount Olympus Avenue; 00000000
